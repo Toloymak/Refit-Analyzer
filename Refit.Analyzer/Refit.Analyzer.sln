@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refit.Analyzer", "Refit.Analyzer\Refit.Analyzer\Refit.Analyzer.csproj", "{1E88A1A6-22F6-4941-8DA8-0AF0C853CAEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refit.Analyzer.Sample", "Refit.Analyzer\Refit.Analyzer.Sample\Refit.Analyzer.Sample.csproj", "{5531A6E3-8625-43D2-ABFD-3A4F6D6B3432}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refit.Analyzer.Tests", "Refit.Analyzer\Refit.Analyzer.Tests\Refit.Analyzer.Tests.csproj", "{CBB21559-C35E-4AFB-A0ED-0D5A010A332A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E88A1A6-22F6-4941-8DA8-0AF0C853CAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E88A1A6-22F6-4941-8DA8-0AF0C853CAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E88A1A6-22F6-4941-8DA8-0AF0C853CAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E88A1A6-22F6-4941-8DA8-0AF0C853CAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5531A6E3-8625-43D2-ABFD-3A4F6D6B3432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5531A6E3-8625-43D2-ABFD-3A4F6D6B3432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5531A6E3-8625-43D2-ABFD-3A4F6D6B3432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5531A6E3-8625-43D2-ABFD-3A4F6D6B3432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB21559-C35E-4AFB-A0ED-0D5A010A332A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB21559-C35E-4AFB-A0ED-0D5A010A332A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB21559-C35E-4AFB-A0ED-0D5A010A332A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB21559-C35E-4AFB-A0ED-0D5A010A332A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
