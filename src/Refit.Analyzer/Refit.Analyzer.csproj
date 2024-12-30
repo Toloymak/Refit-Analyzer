@@ -2,7 +2,7 @@
 
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
-        <IsPackable>false</IsPackable>
+        <IsPackable>true</IsPackable>
         <Nullable>enable</Nullable>
         <LangVersion>latest</LangVersion>
 
@@ -11,6 +11,10 @@
 
         <RootNamespace>Toloymak.Refit.Analyzer</RootNamespace>
         <AssemblyName>Toloymak.Refit.Analyzer</AssemblyName>
+    </PropertyGroup>
+    
+    <PropertyGroup>
+        <PackageId>Toloymak.Refit.Analyzer</PackageId>
     </PropertyGroup>
 
     <ItemGroup>
