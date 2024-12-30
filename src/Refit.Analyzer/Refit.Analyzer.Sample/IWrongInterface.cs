@@ -3,6 +3,10 @@ using System.Threading.Tasks;
 
 namespace Refit.Analyzer.Sample;
 
+#if DEBUG
+[SuppressMessage("Confuration", "TRF001:Refit path should start with /")]
+[SuppressMessage("Refit", "RF001:Refit types must have Refit HTTP method attributes")]
+#endif
 public interface IWrongInterface
 {
     [Get("AAA")]
