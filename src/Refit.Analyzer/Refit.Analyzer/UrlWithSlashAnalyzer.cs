@@ -19,8 +19,8 @@ public class UrlWithSlashAnalyzer : DiagnosticAnalyzer
             typeof(Resources));
     
     private const string Category = "Confuration";
-    
-    public const string DiagnosticId = "AB0002";
+
+    private const string DiagnosticId = "TRF001";
     
     private static readonly DiagnosticDescriptor Rule = new(
         id: DiagnosticId,
