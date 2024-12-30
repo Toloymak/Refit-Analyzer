@@ -1,10 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refit.Analyzer", "Refit.Analyzer\Refit.Analyzer\Refit.Analyzer.csproj", "{1E88A1A6-22F6-4941-8DA8-0AF0C853CAEB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refit.Analyzer", "Refit.Analyzer\Refit.Analyzer.csproj", "{1E88A1A6-22F6-4941-8DA8-0AF0C853CAEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refit.Analyzer.Sample", "Refit.Analyzer\Refit.Analyzer.Sample\Refit.Analyzer.Sample.csproj", "{5531A6E3-8625-43D2-ABFD-3A4F6D6B3432}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refit.Analyzer.Sample", "Refit.Analyzer.Sample\Refit.Analyzer.Sample.csproj", "{5531A6E3-8625-43D2-ABFD-3A4F6D6B3432}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refit.Analyzer.Tests", "Refit.Analyzer\Refit.Analyzer.Tests\Refit.Analyzer.Tests.csproj", "{CBB21559-C35E-4AFB-A0ED-0D5A010A332A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refit.Analyzer.Tests", "Refit.Analyzer.Tests\Refit.Analyzer.Tests.csproj", "{CBB21559-C35E-4AFB-A0ED-0D5A010A332A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
